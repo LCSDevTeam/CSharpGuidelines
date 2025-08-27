@@ -112,7 +112,7 @@ NOTE: Requires Markdown Extra. See http://michelf.ca/projects/php-markdown/extra
 <table width="100%" class="footer">
 <tr>
 <td>
-  Dennis Doomen
+  LCS Computer Service GmbH
   Version %semver% (%commitdate%)
 </td>
 <td style="text-align:right">
@@ -239,7 +239,7 @@ NOTE: Requires Markdown Extra. See http://michelf.ca/projects/php-markdown/extra
 <table width="100%" class="footer">
 <tr>
  <td>
-   Dennis Doomen
+   LCS Computer Service GmbH
    Version %semver% (%commitdate%)
  </td>
  <td style="text-align:right">

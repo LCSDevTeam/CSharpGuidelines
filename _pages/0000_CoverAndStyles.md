@@ -4,7 +4,7 @@ NOTE: Requires Markdown Extra. See http://michelf.ca/projects/php-markdown/extra
 
 <link href="style.css" type="text/css" rel="stylesheet"></link>
 
-<div style="text-align:right" markdown="1">
+<div style="text-align:center" markdown="1">
 ![logo](assets/images/logo.png)
 </div>
 <br/>
@@ -16,7 +16,7 @@ for all C# versions up to v10
 </div>
 <br/>
 <div class="author">
-Dennis Doomen<br/>
+LCS Computer Service GmbH<br/>
 Version %semver%<br/>
 %commitdate%
 </div>
